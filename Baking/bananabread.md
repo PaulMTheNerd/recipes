@@ -12,14 +12,14 @@ tags:
 
 #### Ingredients
 - 4 ripe bananas, cut into chunks
-- 330g cups light brown sugar
-- 115g cup butter, softened
+- 330g light brown sugar
+- 115g butter, softened
 - 65g chopped walnuts or pecans
 - 1 egg
 - 1 teaspoon cinnamon
 - 1 teaspoon vanilla extract
 - 60mls whole milk
-- 272g all-purpose flour
+- 275g all-purpose flour
 - ½ teaspoon baking soda
 - 1 teaspoon baking powder
 - ½ teaspoon salt
