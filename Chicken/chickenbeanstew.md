@@ -1,19 +1,36 @@
+---
+title: Chicken and White Bean Stew
+description: Chicken and White Bean Stew
+date: 2022-02-06
+categories:
+  - "Food"
+tags:
+  - "chicken"
+  - "stew"
+  - "beans"
+---
+
 #### Ingredients
-- 4 chicken fillets cut into chunks
-- 1 large onion
-- 4 carrots
-- 4 sticks celery
-- 4 potatoes
-- 1 tsp thyme
-- 500ml vegetable or chicken stock
-- 2 cans cannellini beans
-- 1 cup pearl barley
-- salt
-- pepper
+
+- 4 chicken breast fillets, cut into chunks
+- 1 pack smoked bacon lardons
+- 1 onion, chopped
+- 2 garlic cloves, chopped
+- 3 carrots, chopped
+- 5 to 10 baby potatoes, cut into chunks
+- 2 tsp [vegetable seasoning](https://linuxpaulm.club/post/food/vegstock/), mixed with 2 tsp soy sauce and 1ltr water
+- 1 glass of white wine
+- 2 cans white beans (haricot or cannellini would work)
 
 #### Method
-- Add the chicken, onion, carrots, potatoes and thyme to the slow cooker
-- Stir in the stock
-- Season with salt and pepper
-- Cook on low for 7 hours
-- Stir in the barley and cook on high for 1 hour
+
+- Heat some oil in a pot
+- Brown the chicken, remove and set aside
+- Cook the bacon
+- Add the onion and cook the onion until softened
+- Add the garlic and cook for a minute
+- Add the carrots and potatoes
+- Add the seasoning/soy sauce/water mix
+- Add the wine
+- Season to taste, bring to the boil and simmer for 40 mins
+- Stir in the beans and cook for 5 more mins
