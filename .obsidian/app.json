@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./assets"
+}

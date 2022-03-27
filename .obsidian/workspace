@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "cce04f0120cee761",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a4a0a20be8616f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chicken/Chicken and White Bean Stew.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a4ae8778fc658c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e92e2b51b42967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b3d8d4f1708716",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a90778eab91d91fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e472b2ba767f9e53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19fe319ae691f6a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fb4e1476efe517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79cae15aad84c7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chicken/Chicken and White Bean Stew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b10a779827e48d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chicken/Chicken and White Bean Stew.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f71ffacde838f6a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a4db11d73140d9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chicken/Chicken and White Bean Stew.md"
+              }
+            }
+          },
+          {
+            "id": "f6721c84ecda474b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55a4a0a20be8616f",
+  "lastOpenFiles": [
+    "Chicken/Chicken and White Bean Stew.md",
+    "Chicken/Chicken Jalfrezi.md",
+    "Chicken/Chicken Tikka Masala.md",
+    "Pork/Sausage White Bean and Pasta Stew.md",
+    "Drinks/The Ubuntu 'Chelsea Cucumber' Mate Mocktail.md",
+    "Chicken/Chicken and Chorizo Jambalaya.md",
+    "Chicken/Butter Chicken.md",
+    "beef/Mince and Dumplings.md",
+    "beef/Irish Stew.md",
+    "beef/Chilli Con Carne.md"
+  ]
+}
