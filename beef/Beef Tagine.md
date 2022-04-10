@@ -1,3 +1,4 @@
+# Beef Tagine
 #### Ingredients
 - 2lbs steak pieces
 - 1 tbsp salt
