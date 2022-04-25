@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chicken/Chicken and Cider Stew.md",
+            "file": "Chicken/Sweet and Sour Chicken.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chicken/Chicken and Cider Stew.md",
+                "file": "Chicken/Sweet and Sour Chicken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chicken/Chicken and Cider Stew.md",
+                "file": "Chicken/Sweet and Sour Chicken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chicken/Chicken and Cider Stew.md"
+                "file": "Chicken/Sweet and Sour Chicken.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "55a4a0a20be8616f",
   "lastOpenFiles": [
+    "Chicken/Sweet and Sour Chicken.md",
     "Chicken/Chicken and Cider Stew.md",
     "Chicken/Chicken and White Bean Stew.md",
     "Baking/Irish Fruit Soda Bread.md",
@@ -146,7 +147,6 @@
     "Vegetable/Chunky Vegetable Soup.md",
     "Seasonings/Vegetable Stock Powder.md",
     "Seasonings/Homemade Ketchup.md",
-    "Seasonings/Beef Seasoning.md",
-    "Drinks/The Ubuntu 'Chelsea Cucumber' Mate Mocktail.md"
+    "Seasonings/Beef Seasoning.md"
   ]
 }
