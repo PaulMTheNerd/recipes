@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chicken/Sweet and Sour Chicken.md",
+            "file": "Chicken/Chicken Madras.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chicken/Sweet and Sour Chicken.md",
+                "file": "Chicken/Chicken Madras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chicken/Sweet and Sour Chicken.md",
+                "file": "Chicken/Chicken Madras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chicken/Sweet and Sour Chicken.md"
+                "file": "Chicken/Chicken Madras.md"
               }
             }
           },
@@ -138,6 +138,8 @@
   },
   "active": "55a4a0a20be8616f",
   "lastOpenFiles": [
+    "Chicken/Chicken Madras.md",
+    "Chicken/Chicken Tagine.md",
     "Chicken/Sweet and Sour Chicken.md",
     "Chicken/Chicken and Cider Stew.md",
     "Chicken/Chicken and White Bean Stew.md",
@@ -145,8 +147,6 @@
     "Baking/Banana Bread.md",
     "Pork/Sausage White Bean and Pasta Stew.md",
     "Vegetable/Chunky Vegetable Soup.md",
-    "Seasonings/Vegetable Stock Powder.md",
-    "Seasonings/Homemade Ketchup.md",
-    "Seasonings/Beef Seasoning.md"
+    "Seasonings/Vegetable Stock Powder.md"
   ]
 }
